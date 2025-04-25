@@ -1,0 +1,9 @@
+/* Write your code here: */
+ul > li{
+    color: red;
+    font-size: 20px;
+}
+
+div > p{
+    color: firebrick;
+}
